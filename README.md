@@ -25,3 +25,10 @@ Current version 0.1
 Used holographic design package to display the stats
 
 ![img](https://raw.githubusercontent.com/kranercc/Battle_Arena_Mc_PVE/main/img/holodisplay.png)
+
+
+
+
+```
+line count : 608 lines of code
+```
