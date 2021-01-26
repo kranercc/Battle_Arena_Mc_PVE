@@ -13,7 +13,7 @@ Current version 0.1
 -> Begin the game
 
 
--> Spawn mobs
+-> Spawn mobs (based on current player position, in kUtils are the math functions, that calculate locations around player and all that)
 
 -> Keep track of waves
 
