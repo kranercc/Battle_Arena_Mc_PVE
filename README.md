@@ -7,12 +7,16 @@ Current version 0.1
 
 
 -> Teleport player to coordonates
+
 -> Display game start
+
 -> Begin the game
 
 
 -> Spawn mobs
+
 -> Keep track of waves
+
 -> Increase mob dificulty based on current wave number
 
 
