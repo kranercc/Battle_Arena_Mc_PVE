@@ -1,0 +1,13 @@
+name: kGuardian
+version: 0.1
+author: krane
+main: krn.kGuardian.Main
+
+softdepend: [HolographicDisplays]
+
+commands:
+  kGuardian:
+    description: /kGuardian sa joci.
+
+  exitGuardian:
+    description: /exitGuardian sa iesi din joc.
